@@ -21,7 +21,7 @@ public class Solution<month> {
 
     private static int inputMonth() {
 
-        System.out.println("Please enter the number of the month: ");
+        System.out.print("Please enter the number of the month: ");
         int inputMonth = in.nextInt();
 
         return inputMonth;
